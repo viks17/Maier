@@ -1,0 +1,252 @@
+E:\Практика 46каб\егор\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+E:\Практика 46каб\егор\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.AuthForm.resources
+E:\Практика 46каб\егор\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.ChangePassForm.resources
+E:\Практика 46каб\егор\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.MenuForm.resources
+E:\Практика 46каб\егор\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+E:\Практика 46каб\егор\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.TittleForm.resources
+E:\Практика 46каб\егор\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.UsersForm.resources
+E:\Практика 46каб\егор\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+E:\Практика 46каб\егор\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySqlConnector.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Buffers.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Memory.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\ZstdNet.dll
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.pdb
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySqlConnector.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Buffers.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Memory.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.AuthForm.resources
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.ChangePassForm.resources
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.MenuForm.resources
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.TittleForm.resources
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.UsersForm.resources
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\Okkuro\Desktop\Практика\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\BouncyCastle.Crypto.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.SqlServer.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Hash.xxHash.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.EntityFramework.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySqlConnector.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Buffers.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Memory.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Numerics.Vectors.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Ubiety.Dns.Core.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\ZstdNet.dll
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.SqlServer.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.pdb
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Hash.xxHash.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.EntityFramework.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySqlConnector.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Buffers.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Memory.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Numerics.Vectors.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.AuthForm.resources
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.ChangePassForm.resources
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.MenuForm.resources
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.TittleForm.resources
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.UsersForm.resources
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+E:\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySqlConnector.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Buffers.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Memory.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\ZstdNet.dll
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.pdb
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySqlConnector.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Buffers.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Memory.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.AuthForm.resources
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.ChangePassForm.resources
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.MenuForm.resources
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.TittleForm.resources
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.UsersForm.resources
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\DNS\Desktop\vfqth xe[jq\практика 3 курс\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySqlConnector.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Buffers.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Memory.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\ZstdNet.dll
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.pdb
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Google.Protobuf.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\MySqlConnector.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Buffers.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Memory.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.AuthForm.resources
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.ChangePassForm.resources
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.MenuForm.resources
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.TittleForm.resources
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.UsersForm.resources
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\artem\Desktop\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\BouncyCastle.Crypto.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\EntityFramework.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\EntityFramework.SqlServer.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\Google.Protobuf.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\K4os.Hash.xxHash.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\MySql.Data.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\MySql.Data.EntityFramework.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\MySqlConnector.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Buffers.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Memory.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Numerics.Vectors.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\Ubiety.Dns.Core.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\ZstdNet.dll
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\EntityFramework.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\EntityFramework.SqlServer.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\Google.Protobuf.pdb
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\Google.Protobuf.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\K4os.Hash.xxHash.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\MySql.Data.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\MySql.Data.EntityFramework.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\MySqlConnector.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Buffers.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Memory.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Numerics.Vectors.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.AuthForm.resources
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.ChangePassForm.resources
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.MenuForm.resources
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.TittleForm.resources
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.UsersForm.resources
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+E:\практика Майер\Готовая работа\ChildrenEnt-master\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
